@@ -1,0 +1,13 @@
+
+<suite name="Test Suite">
+<listeners>
+    <listener class-name="listener.ItestListener"/>
+</listeners>
+    <test name="TestNG Test">
+        <classes>
+            <class name="tests.HomePageTest"/>
+            <class name="tests.TestNGDemo"/>
+        </classes>
+    </test>
+    
+</suite>
