@@ -34,6 +34,8 @@ public class HomePage_BP {
 		Assert.assertEquals(True, Add_Inventory_enabled);
 	}
 	
+	public void latmethod() {}
+	
 	
 	
 
